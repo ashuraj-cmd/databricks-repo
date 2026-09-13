@@ -1,1 +1,5 @@
-print("helllo")
+name = "Brajesh"
+age = 26
+
+print(name)
+print(age)
